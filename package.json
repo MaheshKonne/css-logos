@@ -1,0 +1,31 @@
+{
+  "name": "css-logos",
+  "version": "1.0.0",
+  "description": "CSS drawings with a single div",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshKonne/css-logos.git"
+  },
+  "keywords": [
+    "css-logos",
+    "css",
+    "logo",
+    "single-div",
+    "linear-gradient"
+  ],
+  "author": "MaheshKonne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheshKonne/css-logos/issues"
+  },
+  "homepage": "https://github.com/MaheshKonne/css-logos#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
